@@ -3,6 +3,9 @@
 ## Project setup
 ```
 npm install
+Note App 
+--Double Click Delete Note
+--Save İcon To LocalStorage
 ```
 
 ### Compiles and hot-reloads for development
